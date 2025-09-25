@@ -21,6 +21,8 @@ import okhttp3.Response;
 
 public class UnifiedGUI extends JFrame {
 	
+	private static final long serialVersionUID = 1L;
+	
 	private JTable ecsTable;
 	private JTable eksTable;
 
