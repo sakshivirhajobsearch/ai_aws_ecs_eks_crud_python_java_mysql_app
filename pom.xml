@@ -4,7 +4,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.ai.aws.ecs.eks</groupId>
-	<artifactId>ai_aws_ecs_eks_crud_python_java_app</artifactId>
+	<artifactId>ai_aws_ecs_eks_crud_python_java_mysql_app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
